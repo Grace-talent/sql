@@ -9,7 +9,7 @@ At the minimum it should have employee, order, sales, customer, and book entitie
 
 ## Question 2
 We want to create employee shifts, splitting up the day into morning and evening. Add this to the ERD.
-![alt text](<Assignment - SQL-Q1&2.drawio.png>)
+![alt text](Assignment_SQL_Q1&2.drawio.png)
 
 ## Question 3
 The store wants to keep customer addresses. Propose two architectures for the CUSTOMER_ADDRESS table, one that will retain changes, and another that will overwrite. Which is type 1, which is type 2?
@@ -19,7 +19,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 _Hint, search type 1 vs type 2 slowly changing dimensions._
 
 Bonus: Are there privacy implications to this, why or why not?
-![alt text](<Assignment - SQL-Q3.drawio.png>)
+![alt text](Assignment_SQL_Q3.drawio.png)
 ```
 Type 1 (Overwrite):
 
